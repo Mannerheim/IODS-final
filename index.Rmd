@@ -13,7 +13,7 @@ output:
 ---
 
 ***
-```{r child = "final_soila.Rmd"}
+```{r child = "/Users/Tuomassoila/IODS-project/final_soila1.Rmd"}
 ```
   
 ***
